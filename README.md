@@ -1,1 +1,0 @@
-# medical_inventory_management
